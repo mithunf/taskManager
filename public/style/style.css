@@ -1,0 +1,42 @@
+.mainWrapper{
+	display: flex;
+	flex-direction: row;
+}
+.column{
+	flex:1;
+	margin: 1px;
+	padding: 1px .5rem;
+	box-sizing: border-box;
+}
+.wrapper{
+	height: 500px;
+	overflow: hidden;
+}
+
+.column h6{
+	font-size: 15px;
+	border-bottom: 2px solid black;
+}
+.cardElements{
+	box-sizing: border-box;
+	height: 150px;
+	background-color: white;
+	margin: 2rem 2px;
+	padding: 10px;
+}
+.cardElements span{
+	display: block;
+}
+.cardValues{
+	width: 85%;
+	display: inline-block;
+}
+.cardImage{
+	display: inline-block;
+	vertical-align: top;
+	width: 15%;
+}
+.cardImage img{
+	width: 25px;
+	height: 25px;
+}

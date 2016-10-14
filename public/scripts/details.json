@@ -1,0 +1,75 @@
+{
+	"todo":[{
+		"title":"CICO-33224",
+		"desc":"PMS-Rover: Journal Clean-up",
+		"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+		"date":"22/10/2016",
+		"version":"1.01",
+		"priority":"medium"
+		},
+		{
+		"title":"CICO-32771",
+		"desc":"Rover PMS-EOD balance for the guest",
+		"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+		"date":"10/02/2015",
+		"version":"1.2",
+		"priority":"Low"
+		},
+		{
+		"title":"CICO-32771",
+		"desc":"Rover PMS-EOD balance for the guest",
+		"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+		"date":"10/02/2015",
+		"version":"1.2",
+		"priority":"Low"
+		},
+		{
+		"title":"CICO-32771",
+		"desc":"Rover PMS-EOD balance for the guest",
+		"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+		"date":"10/02/2015",
+		"version":"1.2",
+		"priority":"Low"
+		}
+	],
+"inprogress":[{
+	"title":"CICO-32568",
+	"desc":"Rover-PMS - ",
+	"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+	"date":"08/03/2013",
+	"version":"2.3",
+	"priority":"Critical"
+}],
+"qaready":[{
+	"title":"CICO-33934",
+	"desc":"PMS-Billing screen does not stay 'undfolded'",
+	"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+	"date":"13/05/2013",
+	"version":"0.1",
+	"priority":"Non-critical"
+}],
+"qafailed":[{
+	"title":"CICO-34185",
+	"desc":"Payments-Six Payments does not work on",
+	"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+	"date":"15/06/2015",
+	"version":"1.22",
+	"priority":"Blocked"
+}],
+"accepted":[{
+	"title":"CICO-31799",
+	"desc":"Rover:Overlay-No Post Flag removed at",
+	"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+	"date":"07/09/2014",
+	"version":"2.0",
+	"priority":"Medium"
+}],
+"closed":[{
+	"title":"CICO-31967",
+	"desc":"Rover:On re-visiting AR transactions",
+	"image":"http://www.freeiconspng.com/uploads/msn-people-person-profile-user-icon--icon-search-engine-16.png",
+	"date":"10/06/2013",
+	"version":"1.5",
+	"priority":"Non-critical"
+}]
+}
