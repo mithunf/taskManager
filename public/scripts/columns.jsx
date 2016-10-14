@@ -41,7 +41,13 @@ export default class Columns extends React.Component{
 					<h6 className="mdl-card__title mdl-card__title-text">{this.props.title}</h6>
 					<div className="wrapper" ref={node => this.node = node} onDrop={this.drop} onDragOver={this.allowdrop}>
 						<div>
-							{val.map((todo, index) => (<Cards title={todo.title} image={todo.image} desc={todo.desc} date={todo.date} priority={todo.priority} key={index}/> ))}
+							{val.map((todo, index) => (<Cards 
+								title={todo.title} 
+								image={todo.image} 
+								desc={todo.desc} 
+								date={todo.date} 
+								priority={todo.priority} 
+								key={index}/> ))}
 						</div>
 					</div>
 				</div>
